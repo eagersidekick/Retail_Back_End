@@ -27,5 +27,5 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Links
 Repository: https://github.com/eagersidekick/Retail_Back_End
-Video: 
+Video: https://drive.google.com/file/d/1JuzdOlHNUL7XKCA3sCyGJHVzbvMx9n1b/view
 
